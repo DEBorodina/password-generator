@@ -1,4 +1,4 @@
-# Password generator
+# Password generator 💻
 
 ### DESCRIPTION
 Simple password generator that generates passwords consisting of digits and letters *a*,*b*,*c*,*d*,*e*,*f*.
