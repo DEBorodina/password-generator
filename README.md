@@ -8,4 +8,4 @@ Simple password generator that generates passwords consisting of digits and lett
 - Random number (Math.rand())
 
 ### DEMO
-[Watch]()
+[Watch](https://deborodina.github.io/password-generator/)
